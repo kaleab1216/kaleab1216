@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Dynamic Web Development
 - 💞️ I’m looking to collaborate on Website Projects
 - 📫 How to reach me gkaleab95@gmail.com
-- 😄 Pronouns: Zomnie
+- 😄 Pronouns: Zombie
 - ⚡ Fun fact: Always Confusing
 
 <!---
